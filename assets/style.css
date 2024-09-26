@@ -27,15 +27,16 @@ body {
     background-color: var(--card-front-color);
 }
 
-..cartao__conteudo h3 {
-    color: var(-);
-    border: 1px solid var(--text-color);
-    text-align: left;
-    padding: 0.5rem;
-    position: absolute;
-    margin: 0.6rem;
-    border-radius: 0.6rem;
-    font-size: 1vw;
+.cartao__conteudo h3 {
+        background-color: tomato;
+        text-align: left;
+        padding: 0.5rem;
+        position: absolute;
+        margin: 0.6rem;
+        border-radius: 0.6rem;
+        font-size: 1vw;
+    }
+    
 }
 
 .cartao__conteudo p {
